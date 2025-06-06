@@ -1,6 +1,6 @@
 # DSA Interview Solutions
 
-Hey there! 👋
+Hey there!
 
 This repo has a bunch of Data Structures and Algorithms problems that come up a lot in coding interviews. If you’re prepping for interviews or just want to brush up on your problem-solving skills, this might help.
 
@@ -59,6 +59,4 @@ Here are some of the problems you’ll find here:
 
 I’ve tried to write clean, easy-to-understand code for each problem so it’s easy to follow along. If you find anything wrong or want to add something, feel free to open an issue or a pull request.
 
-Hope this helps you crush your next interview! 💪
-
-— Arghya
+Hope this helps you crush your next interview!
