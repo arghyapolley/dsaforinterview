@@ -14,18 +14,18 @@ Here are some of the problems you’ll find here:
 - Clone Graph  
 - Move Zeroes  
 - Rotate Image  
-- Jump Game II  
-- Word Search II  
+- Jump Game  
+- Word Search  
 - Task Scheduler  
-- Coin Change II  
+- Coin Change  
 - Merge Intervals  
 - Rotting Oranges  
 - First Bad Version  
 - Group Anagrams  
 - Combination Sum  
-- Linked List Cycle II  
+- Linked List Cycle  
 - Number of Islands  
-- Course Schedule II  
+- Course Schedule  
 - Reverse Linked List  
 - Daily Temperatures  
 - Maximum Subarray  
@@ -54,7 +54,7 @@ Here are some of the problems you’ll find here:
 - Longest Increasing Path in a Matrix  
 - Convert Sorted Array to Binary Search Tree  
 - Maximum Points You Can Obtain from Cards  
-- Populate Next Right Pointers In Each Node II  
+- Populate Next Right Pointers In Each Node  
 - Longest Substring Without Repeating Characters  
 
 I’ve tried to write clean, easy-to-understand code for each problem so it’s easy to follow along. If you find anything wrong or want to add something, feel free to open an issue or a pull request.
