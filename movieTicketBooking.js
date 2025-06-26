@@ -72,9 +72,9 @@ class Seat {
     constructor(seatId) {
       this.seatId = seatId;
       // Status can be:
-      // - AVAILABLE: open to book
-      // - TEMPORARILY_UNAVAILABLE: selected but not yet confirmed
-      // - PERMANENTLY_UNAVAILABLE: booked and confirmed
+      // AVAILABLE: open to book
+      // TEMPORARILY_UNAVAILABLE: selected but not yet confirmed
+      // PERMANENTLY_UNAVAILABLE: booked and confirmed
       this.status = 'AVAILABLE';
     }
   
